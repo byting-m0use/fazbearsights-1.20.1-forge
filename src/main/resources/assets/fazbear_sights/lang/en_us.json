@@ -1,0 +1,14 @@
+{
+  "block.fazbear_sights.tiled_floor_block": "Tiled Floor Block",
+  "block.fazbear_sights.fnaf1_wall_pattern_block": "FNAF1 Patterned Wall Block",
+  "block.fazbear_sights.tiled_wall_block": "Tiled Wall Block",
+  "block.fazbear_sights.fnaf1_wall_block": "FNAF1 Wall Block",
+  "block.fazbear_sights.tiled_floor_block_black_red": "Tiled Floor Block Red",
+  "block.fazbear_sights.tiled_floor_block_white_red": "Tiled Floor Block White Red",
+  "block.fazbear_sights.red_curtain": "Red Curtain",
+  "block.fazbear_sights.fnaf2_wall_pattern_block": "FNAF2 Wall Pattern Block",
+  "block.fazbear_sights.fnaf2_wall_noconfetti": "FNAF2 Wall (No Confetti)",
+  "block.fazbear_sights.fnaf1_wall_top_ceiling": "FNAF1 Wall Top Ceiling Block",
+
+  "creative_tab.fazbear_blocks": "Fazbear Sights Blocks"
+}
